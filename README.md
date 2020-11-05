@@ -1,5 +1,5 @@
 # Bukee
-*//Russian version*
+### *//Russian version*
 
 Результат моей работы на курсе по продвинутой веб-разработке. Где была использована:
 * Методология БЭМ
@@ -19,7 +19,7 @@
 
 Если вы всё сделали правильно, у вас должен открыться браузер с локальным сервером. 
 
-*//English version*
+### *//English version*
 
 Training project for the "tpverstak" course using:
 * BEM 
